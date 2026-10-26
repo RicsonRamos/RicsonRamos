@@ -1,10 +1,10 @@
 # Ricson Ramos
 
 **Data Scientist & Analytics Engineer**  
-São Paulo, Brasil • [LinkedIn](https://www.linkedin.com/in/ricsonramos-analise-dados/) • [Email](mailto:ricsonramos@outlook.com)
+Minas Gerais, Brasil • [LinkedIn](https://www.linkedin.com/in/ricsonramos-analise-dados/) • [Email](mailto:ricsonramos@outlook.com)
 
-> 🌐 **Portfólio Interativo & Storytelling Visual para Recrutadores e Gestores:**  
-> Se você busca uma experiência executiva focada na **resolução de problemas de negócio, tomada de decisão e retorno financeiro (ROI)**, acesse o portfólio visual interativo:  
+>Conheça meu portfólio
+>Meu trabalho conecta dados, tecnologia e estratégia para identificar oportunidades, resolver problemas e apoiar decisões de negócio. Explore meu portfólio para conhecer alguns dos projetos que desenvolvi. 
 > 👉 **[ricsonramos.github.io](https://ricsonramos.github.io)**
 
 ---
