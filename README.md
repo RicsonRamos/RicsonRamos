@@ -1,46 +1,60 @@
 # Ricson Ramos
 
 **Data Scientist & Analytics Engineer**  
-Minas Gerais, Brasil • [LinkedIn](https://www.linkedin.com/in/ricsonramos-analise-dados/) • [Email](mailto:ricsonramos@outlook.com)
+São Paulo, Brasil • [LinkedIn](https://www.linkedin.com/in/ricsonramos-analise-dados/) • [Email](mailto:ricsonramos@outlook.com)
+
+> 🌐 **Portfólio Interativo & Storytelling Visual para Recrutadores e Gestores:**  
+> Se você busca uma experiência executiva focada na **resolução de problemas de negócio, tomada de decisão e retorno financeiro (ROI)**, acesse o portfólio visual interativo:  
+> 👉 **[ricsonramos.github.io](https://ricsonramos.github.io)**
 
 ---
 
-Cientista de Dados e Engenheiro Analítico com foco em **modelagem preditiva, MLOps prático e arquitetura de dados (ELT)**. Combino rigor analítico com padrões de engenharia de software para entregar pipelines reproduzíveis, explicáveis e com impacto financeiro mensurável.
-
-### Core Stack
-- **Data Science & ML:** Python (Polars, Pandas, Scikit-learn, XGBoost), Estatística, SHAP (Explainability).
-- **Engenharia & Dados:** SQL, dbt, PostgreSQL, ETL/ELT, Apache Airflow.
-- **MLOps & Deploy:** Docker, Docker Compose, MLflow, DVC, FastAPI, Streamlit, CI/CD (GitHub Actions).
+Desenvolvo produtos e soluções em **Ciência de Dados e Engenharia Analítica** focados em resolver problemas reais de empresas: **retenção de receita, eficiência logística, controle de risco e aumento de margem**. Meu papel é conectar os objetivos estratégicos da diretoria à infraestrutura e modelagem de dados, transformando dados brutos em decisões claras e lucrativas.
 
 ---
 
-### Projetos Selecionados
+### 💼 Estudos de Caso & Soluções de Negócio
 
-#### [Streaming Service Churn Radar](https://github.com/RicsonRamos/streaming_service_analysis_churn)
-*Pipeline completo de MLOps para predição e mitigação de churn com cálculo de impacto financeiro (ROI).*
-- **Problema:** Redução de evasão de clientes em serviços de assinatura através de intervenção preventiva orientada a dados.
-- **Engenharia & Modelagem:** Modelo com **XGBoost Native**, rastreamento de experimentos com **MLflow**, versionamento de dados com **DVC** e explicabilidade via **SHAP**.
-- **Entrega:** Painel operacional em **Streamlit** conteinerizado com **Docker**, permitindo simulação de custo de retenção vs. receita preservada.
+#### 🛡️ [Predição e Gestão Preventiva de Churn (Evasão de Clientes)](https://github.com/RicsonRamos/streaming_service_analysis_churn)
+*Como antecipar o cancelamento de assinaturas e orientar investimentos cirúrgicos de retenção.*
+* **O Desafio do Negócio:** A perda recorrente de clientes impactava a receita anual (ARR). Campanhas genéricas de retenção desperdiçavam orçamento oferecendo descontos a quem não pretendia sair ou a quem já estava decidido a cancelar.
+* **A Solução Entregue:** Um sistema de inteligência preditiva que identifica clientes em risco com semanas de antecedência, detalhando a causa primária do descontentamento de cada cliente.
+* **Impacto para a Gestão:** Painel operacional interativo onde o time de negócios simula o custo das ofertas de retenção versus a receita preservada, garantindo **ROI positivo na campanha**.
+* 📖 **[Ver Estudo de Caso Visual (Storytelling)](https://ricsonramos.github.io/projetos/churn/)** | 💻 **[Ver Código-Fonte Técnico](https://github.com/RicsonRamos/streaming_service_analysis_churn)**
 
-#### [Olist E-Commerce Data Platform](https://github.com/RicsonRamos/olist-data-platform)
-*Plataforma analítica moderna (ELT) e modelagem dimensional para e-commerce em larga escala.*
-- **Problema:** Transformação de dados brutos transacionais em uma camada confiável (*single source of truth*) para inteligência de negócio.
-- **Engenharia & Dados:** Pipeline ELT em Python, modelagem dimensional (*Star Schema*) e testes de qualidade de dados com **dbt**, banco **PostgreSQL**, linting com **SQLFluff** e orquestração via **Docker Compose**.
-- **Governança:** Validação automatizada de integridade e esquemas via CI no **GitHub Actions**.
+#### 🛒 [Plataforma de Dados & Confiabilidade Métrica para E-Commerce](https://github.com/RicsonRamos/olist-data-platform)
+*Eliminando relatórios conflitantes e construindo a "fonte única da verdade" para tomada de decisão.*
+* **O Desafio do Negócio:** Milhões de transações espalhadas em bases desconexas geravam números divergentes entre os relatórios da diretoria, financeiro e logística, paralisando decisões estratégicas.
+* **A Solução Entregue:** Construção de uma plataforma centralizada de dados com processos automáticos de auditoria e validação de qualidade, garantindo que nenhum dado duplicado ou corrompido chegue às telas dos diretores.
+* **Impacto para a Gestão:** Redução de 90% no tempo de geração de relatórios gerenciais e disponibilização de indicadores confiáveis de faturamento, prazo de entrega e satisfação do consumidor.
+* 📖 **[Ver Estudo de Caso Visual (Storytelling)](https://ricsonramos.github.io/projetos/olist-data-platform/)** | 💻 **[Ver Código-Fonte Técnico](https://github.com/RicsonRamos/olist-data-platform)**
 
-#### [Retail Intelligence & Sales Forecasting](https://github.com/RicsonRamos/sales-forecasting-and-performance-analytics)
-*Previsão de demanda e segmentação comportamental de clientes para o varejo.*
-- **Problema:** Otimização de planejamento de estoque e personalização de campanhas com base em padrões de consumo.
-- **Metodologia:** Análise exploratória rigorosa, segmentação não-supervisionada (**K-Means Clustering**) e modelos de regressão supervisionada para previsão de receita.
-- **Deploy:** Aplicação analítica modular em **Streamlit**, empacotada em contêiner **Docker**.
+#### 📊 [Inteligência de Varejo: Previsão de Faturamento & Segmentação](https://github.com/RicsonRamos/sales-forecasting-and-performance-analytics)
+*Previsão de demanda para estoques e campanhas personalizadas por perfil de consumidor.*
+* **O Desafio do Negócio:** Rupturas de estoque em períodos de alta demanda e capital de giro imobilizado em produtos encalhados, além de comunicações de marketing padronizadas que geravam baixa conversão.
+* **A Solução Entregue:** Agrupamento automático de clientes por comportamento de consumo e perfil de gastos, aliado a um motor estatístico de previsão de receita futura por categoria de loja.
+* **Impacto para a Gestão:** Alocação de estoque calibrada para o faturamento previsto e segmentação de ofertas que elevam o ticket médio de cada grupo de clientes.
+* 📖 **[Ver Estudo de Caso Visual (Storytelling)](https://ricsonramos.github.io/projetos/sales-forecasting/)** | 💻 **[Ver Código-Fonte Técnico](https://github.com/RicsonRamos/sales-forecasting-and-performance-analytics)**
 
-#### [MacroPulse Intelligence Platform](https://github.com/RicsonRamos/macropulse)
-*Terminal de dados e inteligência macroeconômica para análise de risco de mercado em tempo real.*
-- **Problema:** Centralização e correlação de indicadores macroeconômicos globais fragmentados.
-- **Arquitetura:** Ingestão contínua de dados via pipelines ETL, motor de scoring de risco e API assíncrona de alta performance desenvolvida em **FastAPI**.
+#### 🌐 [MacroPulse: Inteligência Macroeconômica e Gestão de Risco](https://github.com/RicsonRamos/macropulse)
+*Centralização de indicadores econômicos globais para proteção e alocação de capital.*
+* **O Desafio do Negócio:** Gestores de investimentos gastavam horas manuais coletando dados econômicos fragmentados em dezenas de fontes públicas para entender o cenário macroeconômico.
+* **A Solução Entregue:** Um terminal em tempo real que reúne inflação, taxas de juros, câmbio e índices de mercado em um único painel, calculando um índice automático de risco de mercado.
+* **Impacto para a Gestão:** Respostas imediatas a mudanças econômicas repentinas, permitindo reposicionamento de capital com menor exposição ao risco.
+* 📖 **[Ver Estudo de Caso Visual (Storytelling)](https://ricsonramos.github.io/projetos/macropulse/)** | 💻 **[Ver Código-Fonte Técnico](https://github.com/RicsonRamos/macropulse)**
 
 ---
 
-### Formação & Trajetória
-- **Graduação:** Ciência de Dados / Análise de Dados
-- **Interesses Técnicos:** Modelagem de Risco Operacional e de Crédito, Inferência Causal, Arquitetura de Lakehouse e Sistemas Autônomos de Dados.
+### 🎯 O Que Eu Agrego para a Sua Equipe
+
+* **Foco em Retorno Financeiro (ROI):** Não crio modelos matemáticos por vaidade acadêmica; cada projeto é dimensionado pelo valor financeiro que gera ou pelo custo que evita.
+* **Comunicação entre Negócio e Tecnologia:** Facilidade para dialogar tanto com desenvolvedores de software quanto com analistas de negócio, diretores e C-levels.
+* **Padrão de Qualidade e Governança:** Pipelines documentados, código limpo, processos auditáveis e ferramentas modernas de mercado (Python, dbt, SQL, Docker, MLflow, Streamlit).
+
+---
+
+### 📬 Contato Direto
+
+* **LinkedIn:** [linkedin.com/in/ricsonramos-analise-dados](https://www.linkedin.com/in/ricsonramos-analise-dados/)
+* **E-mail:** [ricsonramos@outlook.com](mailto:ricsonramos@outlook.com)
+* **Portfólio Web:** [ricsonramos.github.io](https://ricsonramos.github.io)
