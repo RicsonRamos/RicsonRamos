@@ -1,54 +1,46 @@
-<h1 align="center">Ricson Ramos</h1>
-<p align="center">
-  <strong>Data Scientist | Intelligence & Operational Risk | Pattern Recognition</strong>
-</p>
+# Ricson Ramos
 
-<p align="center">
-  <a href="https://linkedin.com/in/ricsonramos">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://kaggle.com/ricsonramos">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="mailto:ricsonramos@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.hackerrank.com/profile/ricsonramos">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-</p>
+**Data Scientist & Analytics Engineer**  
+São Paulo, Brasil • [LinkedIn](https://www.linkedin.com/in/ricsonramos-analise-dados/) • [Email](mailto:ricsonramos@outlook.com)
 
 ---
 
-### 🛠️ Technical Stack
+Cientista de Dados e Engenheiro Analítico com foco em **modelagem preditiva, MLOps prático e arquitetura de dados (ELT)**. Combino rigor analítico com padrões de engenharia de software para entregar pipelines reproduzíveis, explicáveis e com impacto financeiro mensurável.
 
-* **Data Science & Analytics:** Specialist in `Python` for predictive modeling and statistical analysis. Proficiency in `Pandas`, `NumPy`, `Scikit-Learn`, and `SQL (PostgreSQL)` for large-scale data manipulation.
-* **Intelligence & Risk:** Expert in `Pattern Recognition. Development of strategic `Power BI` dashboards focused on operational risk mitigation and security intelligence.
-* **Software Engineering (CI/CD):** Workflow automation and data governance using `GitHub Actions`, version control with `Git`, and implementation of process automation pipelines.
-
----
-
-### 🛠️ Technical Stack
-* **Data Science:** `Python (Pandas, Scikit-Learn)`, `SQL (PostgreSQL)`, `EDA`, `Statistical Modeling`.
-* **Intelligence & BI:** `Power BI`, `Pattern Recognition`, `Fraud Detection`.
-* **Engineering:** `Git`, `Process Automation`, `GitHub Actions (CI/CD)`.
-
-### ⚙️ Advanced Engineering Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/main/github-metrics.svg" alt="Advanced Metrics" width="100%">
-</p>
+### Core Stack
+- **Data Science & ML:** Python (Polars, Pandas, Scikit-learn, XGBoost), Estatística, SHAP (Explainability).
+- **Engenharia & Dados:** SQL, dbt, PostgreSQL, ETL/ELT, Apache Airflow.
+- **MLOps & Deploy:** Docker, Docker Compose, MLflow, DVC, FastAPI, Streamlit, CI/CD (GitHub Actions).
 
 ---
 
-### 🐍 Activity Insight
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/RicsonRamos/RicsonRamos/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+### Projetos Selecionados
+
+#### [Streaming Service Churn Radar](https://github.com/RicsonRamos/streaming_service_analysis_churn)
+*Pipeline completo de MLOps para predição e mitigação de churn com cálculo de impacto financeiro (ROI).*
+- **Problema:** Redução de evasão de clientes em serviços de assinatura através de intervenção preventiva orientada a dados.
+- **Engenharia & Modelagem:** Modelo com **XGBoost Native**, rastreamento de experimentos com **MLflow**, versionamento de dados com **DVC** e explicabilidade via **SHAP**.
+- **Entrega:** Painel operacional em **Streamlit** conteinerizado com **Docker**, permitindo simulação de custo de retenção vs. receita preservada.
+
+#### [Olist E-Commerce Data Platform](https://github.com/RicsonRamos/olist-data-platform)
+*Plataforma analítica moderna (ELT) e modelagem dimensional para e-commerce em larga escala.*
+- **Problema:** Transformação de dados brutos transacionais em uma camada confiável (*single source of truth*) para inteligência de negócio.
+- **Engenharia & Dados:** Pipeline ELT em Python, modelagem dimensional (*Star Schema*) e testes de qualidade de dados com **dbt**, banco **PostgreSQL**, linting com **SQLFluff** e orquestração via **Docker Compose**.
+- **Governança:** Validação automatizada de integridade e esquemas via CI no **GitHub Actions**.
+
+#### [Retail Intelligence & Sales Forecasting](https://github.com/RicsonRamos/sales-forecasting-and-performance-analytics)
+*Previsão de demanda e segmentação comportamental de clientes para o varejo.*
+- **Problema:** Otimização de planejamento de estoque e personalização de campanhas com base em padrões de consumo.
+- **Metodologia:** Análise exploratória rigorosa, segmentação não-supervisionada (**K-Means Clustering**) e modelos de regressão supervisionada para previsão de receita.
+- **Deploy:** Aplicação analítica modular em **Streamlit**, empacotada em contêiner **Docker**.
+
+#### [MacroPulse Intelligence Platform](https://github.com/RicsonRamos/macropulse)
+*Terminal de dados e inteligência macroeconômica para análise de risco de mercado em tempo real.*
+- **Problema:** Centralização e correlação de indicadores macroeconômicos globais fragmentados.
+- **Arquitetura:** Ingestão contínua de dados via pipelines ETL, motor de scoring de risco e API assíncrona de alta performance desenvolvida em **FastAPI**.
 
 ---
-<p align="center">
-  <em>"Turning complex data into actionable intelligence."</em>
-</p>
+
+### Formação & Trajetória
+- **Graduação:** Ciência de Dados / Análise de Dados
+- **Interesses Técnicos:** Modelagem de Risco Operacional e de Crédito, Inferência Causal, Arquitetura de Lakehouse e Sistemas Autônomos de Dados.
