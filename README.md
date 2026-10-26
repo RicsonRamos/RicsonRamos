@@ -1,7 +1,7 @@
 # Ricson Ramos
 
 **Data Scientist & Analytics Engineer**  
-São Paulo, Brasil • [LinkedIn](https://www.linkedin.com/in/ricsonramos-analise-dados/) • [Email](mailto:ricsonramos@outlook.com)
+Minas Gerais, Brasil • [LinkedIn](https://www.linkedin.com/in/ricsonramos-analise-dados/) • [Email](mailto:ricsonramos@outlook.com)
 
 ---
 
