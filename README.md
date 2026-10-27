@@ -1,7 +1,7 @@
 # Ricson Ramos
 
 **Data Scientist & Analytics Engineer**  
-Minas Gerais, Brasil • [LinkedIn](https://www.linkedin.com/in/ricsonramos-analise-dados/) • [Email](mailto:ricsonramos@outlook.com)
+Minas Gerais, Brasil • [LinkedIn](https://www.linkedin.com/in/ricsonramos/) • [Email](mailto:ricsonramos@outlook.com)
 
 >Conheça meu portfólio
 >Meu trabalho conecta dados, tecnologia e estratégia para identificar oportunidades, resolver problemas e apoiar decisões de negócio. Explore meu portfólio para conhecer alguns dos projetos que desenvolvi. 
@@ -55,6 +55,6 @@ Desenvolvo produtos e soluções em **Ciência de Dados e Engenharia Analítica*
 
 ### 📬 Contato Direto
 
-* **LinkedIn:** [linkedin.com/in/ricsonramos-analise-dados](https://www.linkedin.com/in/ricsonramos-analise-dados/)
+* **LinkedIn:** [linkedin.com/in/ricsonramos](https://www.linkedin.com/in/ricsonramos/)
 * **E-mail:** [ricsonramos@outlook.com](mailto:ricsonramos@outlook.com)
 * **Portfólio Web:** [ricsonramos.github.io](https://ricsonramos.github.io)
